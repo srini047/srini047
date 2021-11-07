@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sriniketh J</h1>
 <h3 align="center">A passionate DS, ML, WebDev Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srini047&label=Profile%20views&color=0e75b6&style=flat" alt="srini047" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srini047&label=You%20are%20Visitor%20Number&color=0e75b6&style=flat" alt="srini047" /> </p>
 
 - 🌱 I’m currently learning **Tensorflow, Keras, Neural Networks**
 
