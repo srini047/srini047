@@ -50,8 +50,8 @@
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srini047&show_icons=true&locale=en&layout=compact" alt="srini047" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srini047&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="srini047" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srini047&show_icons=true&locale=en" alt="srini047" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srini047&show_icons=true&locale=en&theme=tokyonight" alt="srini047" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srini047&" alt="srini047" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srini047&theme=tokyonight" alt="srini047" /></p>
