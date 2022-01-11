@@ -55,3 +55,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srini047&show_icons=true&locale=en&theme=tokyonight" alt="srini047" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srini047&theme=tokyonight" alt="srini047" /></p>
+
+<a href="https://github.com/srini047/30-VanillaJS-Projects" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srini047&repo=30-VanillaJS-Projects&theme=dracula" />
+<a href="https://github.com/srini047/my-portfolio" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srini047&repo=my-portfolio&theme=dracula" />
