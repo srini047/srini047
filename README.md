@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srini047&label=You%20are%20Visitor%20Number&color=0e75b6&style=flat" alt="srini047" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, React JS**
+- 🌱 I’m currently learning **React JS**
 
 - 📝 I regularly write articles on [https://www.analyticsvidhya.com/blog/author/srinikethcr7/](https://www.analyticsvidhya.com/blog/author/srinikethcr7/)
 
