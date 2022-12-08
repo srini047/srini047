@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [here](https://1drv.ms/w/s!As9H75zo_HklgVoqCDVGquHgy-PZ?e=ssf5JW)
 
-<h3 align="center"><p><br><marquee>DS & ML Enthusiast | Learning Web Dev | Open Source Contributor | Postman Student Expert | Sophomore at PSG iTech |  </marquee><br></p></h3>
+<h3 align="center"><p><br><marquee>Technical Content Writing Intern @codedamn | GDSC Lead | DS & ML Enthusiast | Learning Web Dev | OS Contributor | Postman Student Expert | Tableau & Streamlit Student Ambassador</marquee><br></p></h3>
 
 
 <h3 align="left">Connect with me:</h3>
