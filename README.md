@@ -5,17 +5,17 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 📝 I regularly write articles on [https://www.analyticsvidhya.com/blog/author/srinikethcr7/](https://www.analyticsvidhya.com/blog/author/srinikethcr7/)
+- 📝 I regularly write articles on [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/srinikethcr7/), [Codedamn](https://codedamn.com/news/author/srinikethcr7), [Hashnode](http://srinikethj.hashnode.dev)
 
-- 💬 Ask me about **AI, ML**
+- 💬 Ask me about **DS, ML, Technical content writing**
 
 - 📫 How to reach me **srinikethcr7@gmail.com**
 
 - 😄 Pronouns: **He/Him**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17wu-DGI7tKhyRUgCYJ6_E71Q8QQFPl9M/view?usp=sharing](https://drive.google.com/file/d/17wu-DGI7tKhyRUgCYJ6_E71Q8QQFPl9M/view?usp=sharing)
+- 📄 Know about my experiences [here](https://1drv.ms/w/s!As9H75zo_HklgVoqCDVGquHgy-PZ?e=ssf5JW)
 
-<h3 align="center"><p><br><marquee>DS & ML Enthusiast | Learning Web Dev | Open Source Contributor | Postman Student Expert | Sawo Labs Champ | Sophomore at PSG iTech | Ninja Entrepreneur | CA@E-Cell IIT-Bombay | HTL Evangelist</marquee><br></p></h3>
+<h3 align="center"><p><br><marquee>DS & ML Enthusiast | Learning Web Dev | Open Source Contributor | Postman Student Expert | Sophomore at PSG iTech |  </marquee><br></p></h3>
 
 
 <h3 align="left">Connect with me:</h3>
