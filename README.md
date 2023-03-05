@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srini047&label=You%20are%20Visitor%20Number&color=0e75b6&style=flat" alt="srini047" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- Portfolio: [sriniketh.design](https://sriniketh.design)
+
+- 🌱 I’m currently exploring & building in **Next JS**
 
 - 📝 I regularly write articles on [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/srinikethcr7/), [Codedamn](https://codedamn.com/news/author/srinikethcr7), [Hashnode](http://srinikethj.hashnode.dev)
 
@@ -13,9 +15,9 @@
 
 - 😄 Pronouns: **He/Him**
 
-- 📄 Know about my experiences [here](https://1drv.ms/w/s!As9H75zo_HklgVoqCDVGquHgy-PZ?e=ssf5JW)
+- 📄 Know about my experiences [here](https://1drv.ms/w/s!As9H75zo_HklgVYKF5MiCTctXeDz?e=R6zUlM)
 
-<h3 align="center"><p><br><marquee>Technical Content Writing Intern @codedamn | GDSC Lead | DS & ML Enthusiast | Learning Web Dev | OS Contributor | Postman Student Expert | Tableau & Streamlit Student Ambassador</marquee><br></p></h3>
+<h3 align="center"><p><br><marquee>SDE Intern @naas.ai | GDSC Lead | DS & ML Enthusiast | Learning Web Dev | OS Contributor | Postman Student Expert | Tableau & Streamlit Student Ambassador</marquee><br></p></h3>
 
 
 <h3 align="left">Connect with me:</h3>
