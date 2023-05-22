@@ -5,19 +5,17 @@
 
 - Portfolio: [sriniketh.design](https://sriniketh.design)
 
+- ❤️ Love to ship projects by participating in hackathons. Would love to join hands for the upcoming hackathons🤝
+
 - 🌱 I’m currently exploring & building in **Next JS**
 
-- 📝 I regularly write articles on [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/srinikethcr7/), [Codedamn](https://codedamn.com/news/author/srinikethcr7), [Hashnode](http://srinikethj.hashnode.dev)
+- 💬 Ask me about **Web dev, DevRel, DS&ML, Technical content writing**
 
-- 💬 Ask me about **DS, ML, Technical content writing**
-
-- 📫 How to reach me **srinikethcr7@gmail.com**
+- ✉️ How to reach me **srinikethcr7@gmail.com**
 
 - 😄 Pronouns: **He/Him**
 
-- 📄 Know about my experiences [here](https://1drv.ms/w/s!As9H75zo_HklgVYKF5MiCTctXeDz?e=R6zUlM)
-
-<h3 align="center"><p><br><marquee>SDE Intern @naas.ai | GDSC Lead | DS & ML Enthusiast | Learning Web Dev | OS Contributor | Postman Student Expert | Tableau & Streamlit Student Ambassador</marquee><br></p></h3>
+<h3 align="center"><p><br><marquee>SDE Intern @naas.ai | Software developer | OS Contributor | GDSC Lead | DS & ML Enthusiast | Streamlit Student Ambassador</marquee><br></p></h3>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -44,12 +42,11 @@
 </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<!-- <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  -->
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<!-- <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  -->
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srini047&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="srini047" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srini047&show_icons=true&locale=en&theme=tokyonight" alt="srini047" /></p>
+![srini047's GitHub stats](https://github-readme-stats.vercel.app/api?username=srini047&show_icons=true&theme=radical)
