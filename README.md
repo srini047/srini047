@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently exploring & building in **Next JS**
 
-- 💬 Ask me about **Web dev, DevRel, DS&ML, Technical content writing**
+- 💬 Ask me about **Web dev, DevRel, Open Source, DS & ML, Technical content writing**
 
-- ✉️ How to reach me **srinikethcr7@gmail.com**
+- ✉️ How to reach me **sriniketh.offl@gmail.com**
 
 - 😄 Pronouns: **He/Him**
 
