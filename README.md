@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently exploring & building in **Next JS**
 
-- 💬 Ask me about **Web dev, DevRel, Open Source, DS & ML, Technical content writing**
+- 💬 Ask me about **Software development, Problem Solving, DevRel, Open Source, DS & ML, Content writing**
 
 - ✉️ How to reach me **sriniketh.offl@gmail.com**
 
