@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sriniketh J</h1>
-<h3 align="center">A passionate DS, ML, WebDev Enthusiast</h3>
+<h3 align="center">A passionate ML & WebDev Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srini047&label=You%20are%20Visitor%20Number&color=0e75b6&style=flat" alt="srini047" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 😄 Pronouns: **He/Him**
 
-<h3 align="center"><p><br><marquee>SDE Intern @naas.ai | Software developer | OS Contributor | GDSC Lead | DS & ML Enthusiast | Streamlit Student Ambassador</marquee><br></p></h3>
+<h3 align="center"><p><br><marquee>MTS @Zoho | Software developer | OS Contributor | GDSC Lead | DS & ML Enthusiast</marquee><br></p></h3>
 
 
 <h3 align="left">Connect with me:</h3>
