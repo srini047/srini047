@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srini047&label=You%20are%20Visitor%20Number&color=0e75b6&style=flat" alt="srini047" /> </p>
 
-- Portfolio: [sriniketh.design](https://sriniketh.design)
+- Portfolio: [sriniketh.design](https://sriniketh.vercel.app/)
 
 - ❤️ Love to ship projects by participating in hackathons. Would love to join hands for the upcoming hackathons🤝
 
@@ -15,7 +15,7 @@
 
 - 😄 Pronouns: **He/Him**
 
-<h3 align="center"><p><br><marquee>MTS @Zoho | Software developer | OS Contributor | GDSC Lead | DS & ML Enthusiast</marquee><br></p></h3>
+<h3 align="center"><p><br><marquee>Software Engineer | OS Contributor | Technical Writer</marquee><br></p></h3>
 
 
 <h3 align="left">Connect with me:</h3>
