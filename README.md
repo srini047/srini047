@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srini047&label=You%20are%20Visitor%20Number&color=0e75b6&style=flat" alt="srini047" /> </p>
 
-- Portfolio: [sriniketh.design](https://sriniketh.vercel.app/)
+- [Portfolio](https://sriniketh.vercel.app/)
 
 - ❤️ Love to ship projects by participating in hackathons. Would love to join hands for the upcoming hackathons🤝
 
